@@ -5,11 +5,11 @@ This is a totally useless invention or project just created for fun in a hackath
 
 Some useful links 
 
-Clone the repo using : 
+Clone the repo using : https://github.com/AishneeP/UselessHack-MLH
 
-Some Useful HTML Codes / cheatsheet :
+Some Useful HTML Basic codes source : https://www.w3schools.com/html/
 
-Bootstrap link :
+Bootstrap link : https://getbootstrap.com/
 
 # Social Media links 
 
@@ -23,11 +23,13 @@ Facebook : https://www.facebook.com/
 
 WhatsApp Web : https://web.whatsapp.com/
 
-Spotify : https://www.spotify.com/us/
+Spotify : https://open.spotify.com/
 
 Tiktok :  https://www.tiktok.com/
 
 Discord : https://discord.com/
+
+Clubhouse : https://www.joinclubhouse.com/
 
 
 
